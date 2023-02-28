@@ -15,5 +15,6 @@ Ce PCB a été utilisé sur :
  
  Photo des installations dans le dossier "example"
  
- Vidéo d'installation sur CDI 205 : https://www.youtube.com/watch?v=lefwZk9neTg
- Vidéo d'installation sur CDI 350 portable : https://www.youtube.com/watch?v=oyjWXzG0UwU
+ Vidéo exemple :
+- CDI 205 : https://www.youtube.com/watch?v=lefwZk9neTg
+- CDI 350 portable : https://www.youtube.com/watch?v=oyjWXzG0UwU
