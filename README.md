@@ -26,7 +26,7 @@ Ce PCB a été utilisé sur :
 - CDI 205 : https://www.youtube.com/watch?v=lefwZk9neTg
 - CDI 350 portable : https://www.youtube.com/watch?v=oyjWXzG0UwU
 
-
+Pour commander vos PCB vous pouvez utiliser mon lien affilié JLCPCB : https://jlcpcb.com/R11
 
 Mes réseaux : 
 - Twitch - https://www.twitch.tv/cabridiy
