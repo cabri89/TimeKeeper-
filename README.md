@@ -18,6 +18,7 @@ Ce PCB a été utilisé sur :
  - CDI 220
  - CDI 350 portable
  - CDI 450
+ - CDI 470
  
  Photo des installations dans le dossier "example"
  
